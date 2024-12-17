@@ -1,0 +1,410 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metadata>
+<idinfo>
+<citation>
+<citeinfo>
+<origin>U.S. Geological Survey</origin>
+<origin>National Oceanic and Atmospheric Administration</origin>
+<pubdate>2015</pubdate>
+<title>Color Shaded-Relief GeoTIFF Image Showing the Bathymetry Generated from National Oceanic and Atmospheric Administration (NOAA) Survey H12324 in Narragansett Bay (UTM Zone 19, NAD 83)</title>
+<edition>1.0</edition>
+<geoform>remote-sensing image</geoform>
+<serinfo>
+<sername>Open-File Report</sername>
+<issue>2015-1149</issue>
+</serinfo>
+<pubinfo>
+<pubplace>Woods Hole Coastal and Marine Science Center, Woods Hole, MA</pubplace>
+<publish>U.S. Geological Survey, Coastal and Marine Geology Program</publish>
+</pubinfo>
+<onlink>http://pubs.usgs.gov/of/2015/1149/data/bathy/geotifs/utm/h12324_utm.zip</onlink>
+<onlink>http://pubs.usgs.gov/of/2015/1149/html/ofr20151149_catalog.html</onlink>
+<lworkcit>
+<citeinfo>
+<origin>K.Y. McMullen</origin>
+<origin>L.J. Poppe</origin>
+<origin>D.S. Blackwood</origin>
+<origin>M.J. Nardi</origin>
+<origin>M.A. Andring</origin>
+<pubdate>2015</pubdate>
+<title>Sea-floor morphology and sedimentary environments in southern Narragansett Bay, Rhode Island</title>
+<edition>1.0</edition>
+<serinfo>
+<sername>Open-File Report</sername>
+<issue>2015-1149</issue>
+</serinfo>
+<pubinfo>
+<pubplace>Reston, VA</pubplace>
+<publish>U.S. Geological Survey</publish>
+</pubinfo>
+<othercit>DVD-ROM</othercit>
+<onlink>http://dx.doi.org/10.3133/ofr20151149</onlink>
+<onlink>http://pubs.usgs.gov/of/2015/1149/</onlink>
+</citeinfo>
+</lworkcit>
+</citeinfo>
+</citation>
+<descript>
+<abstract>The U.S. Geological Survey (USGS), in cooperation with the National Oceanic and Atmospheric Administration (NOAA), is producing detailed geologic maps of the coastal sea floor. Bathymetric data, originally collected by NOAA for charting purposes, provide a framework for research and management activities along southern Narragansett Bay, show the composition and terrain of the seabed, and provide information on sediment transport and benthic habitat. During September 2014, bottom photographs and surficial sediment data were acquired as part of a ground-truth reconnaissance survey of this area. Interpretations were derived from the multibeam-echosounder, sedimentary, and photographic data collected in Narragansett Bay. For more information on the ground-truth survey see http://cmgds.marine.usgs.gov/fan_info.php?fan=2014-046-FA.</abstract>
+<purpose>To release a color shaded-relief GeoTIFF of the bathymetry generated from NOAA survey H12324 in Narragansett Bay in UTM Zone 19, NAD 83.</purpose>
+</descript>
+<timeperd>
+<timeinfo>
+<rngdates>
+<begdate>20110627</begdate>
+<enddate>20111011</enddate>
+</rngdates>
+</timeinfo>
+<current>ground condition</current>
+</timeperd>
+<status>
+<progress>Complete</progress>
+<update>None planned</update>
+</status>
+<spdom>
+<bounding>
+<westbc>-71.436976</westbc>
+<eastbc>-71.298666</eastbc>
+<northbc>41.474814</northbc>
+<southbc>41.404985</southbc>
+</bounding>
+</spdom>
+<keywords>
+<theme>
+<themekt>None</themekt>
+<themekey>U.S. Geological Survey</themekey>
+<themekey>USGS</themekey>
+<themekey>Woods Hole Coastal and Marine Science Center</themekey>
+<themekey>multibeam bathymetry</themekey>
+<themekey>bathymetry</themekey>
+<themekey>Coastal and Marine Geology Program</themekey>
+<themekey>CMGP</themekey>
+<themekey>WHCMSC</themekey>
+<themekey>NOAA survey H12324</themekey>
+<themekey>H12324</themekey>
+<themekey>National Oceanic and Atmospheric Administration</themekey>
+<themekey>NOAA</themekey>
+<themekey>GeoTIFF</themekey>
+<themekey>hill-shaded</themekey>
+<themekey>Simrad EM3002</themekey>
+</theme>
+<theme>
+<themekt>ISO 19115 Topic Category</themekt>
+<themekey>elevation</themekey>
+<themekey>oceans</themekey>
+<themekey>imageryBaseMapsEarthCover</themekey>
+</theme>
+<place>
+<placekt>None</placekt>
+<placekey>Rhode Island</placekey>
+<placekey>U.S. East Coast</placekey>
+<placekey>United States</placekey>
+<placekey>North America</placekey>
+<placekey>Atlantic Ocean</placekey>
+<placekey>Narragansett Bay</placekey>
+</place>
+</keywords>
+<accconst>None</accconst>
+<useconst>Data are not to be used for navigation purposes. Public domain data are freely redistributable with proper metadata and source attribution. Please recognize the National Oceanic and Atmospheric Administration (NOAA) and U.S. Geological Survey (USGS) as the originators of this information.</useconst>
+<ptcontac>
+<cntinfo>
+<cntorgp>
+<cntorg>U.S. Geological Survey</cntorg>
+<cntper>Katherine McMullen</cntper>
+</cntorgp>
+<cntpos>Field and Laboratory Technician</cntpos>
+<cntaddr>
+<addrtype>mailing and physical address</addrtype>
+<address>384 Woods Hole Road</address>
+<city>Woods Hole</city>
+<state>MA</state>
+<postal>02543-1598</postal>
+<country>USA</country>
+</cntaddr>
+<cntvoice>(508) 548-8700 x2277</cntvoice>
+<cntfax>(508) 457-2310</cntfax>
+<cntemail>kmcmullen@usgs.gov</cntemail>
+</cntinfo>
+</ptcontac>
+<browse>
+<browsen>http://pubs.usgs.gov/of/2015/1149/data/bathy/geotifs/utm/h12324_utm.gif</browsen>
+<browsed>Thumbnail image of the GeoTIFF showing the color hill-shaded bathymetry collected during NOAA survey H12324 in UTM Zone 19, NAD 83.</browsed>
+<browset>GIF</browset>
+</browse>
+<native>Microsoft Windows Vista Version 6.1 (Build 7601) Service Pack 1; ESRI ArcCatalog 9.3.1.4095</native>
+<crossref>
+<citeinfo>
+<origin>Matthew Nardi</origin>
+<pubdate>2011</pubdate>
+<title>H12324</title>
+<edition>1.0</edition>
+<serinfo>
+<sername>Descriptive Report</sername>
+<issue>H12324</issue>
+</serinfo>
+<pubinfo>
+<pubplace>Atlantic Hydrographic Branch, Norfolk, VA</pubplace>
+<publish>National Ocean Survey, National Oceanic and Atmospheric Administration</publish>
+</pubinfo>
+<onlink>http://surveys.ngdc.noaa.gov/mgg/NOS/coast/H12001-H14000/H12324/DR/H12324.pdf</onlink>
+</citeinfo>
+</crossref>
+<crossref>
+<citeinfo>
+<origin>K.Y. McMullen</origin>
+<origin>L.J. Poppe</origin>
+<origin>R.P. Signell</origin>
+<origin>J.F. Denny</origin>
+<origin>J.M. Crocker</origin>
+<origin>A.L. Beaver</origin>
+<origin>P.T. Schattgen</origin>
+<pubdate>2007</pubdate>
+<title>Surficial geology in central Narragansett Bay, Rhode Island: Interpretations of sidescan sonar and multibeam bathymetry</title>
+<edition>1.0</edition>
+<serinfo>
+<sername>Open-File Report</sername>
+<issue>2006-1199</issue>
+</serinfo>
+<pubinfo>
+<pubplace>Reston, VA</pubplace>
+<publish>U.S. Geological Survey</publish>
+</pubinfo>
+<onlink>http://pubs.usgs.gov/of/2006/1199/</onlink>
+</citeinfo>
+</crossref>
+</idinfo>
+<dataqual>
+<logic>No additional checks for consistency were performed on this data.</logic>
+<complete>All collected data were processed and used to produce this dataset.</complete>
+<posacc>
+<horizpa>
+<horizpar>Navigation was by differential GPS using Trimble DSM212L DGPS receivers (accurate to &lt;1m). CARIS HIPS was used to process bathymetry data including correcting for vessel offset.</horizpar>
+</horizpa>
+<vertacc>
+<vertaccr>The vertical resolution of the bathymetry data is approximately 0.5% of the water depth. Although there are no depth attributes associated with the GeoTIFF image, pixel values convey RGB values of individual cells. Warmer colors (e.g. red) are shallower depths; cooler colors are deeper.</vertaccr>
+</vertacc>
+</posacc>
+<lineage>
+<srcinfo>
+<srccite>
+<citeinfo>
+<origin>National Ocean Survey, National Oceanic and Atmospheric Administration</origin>
+<pubdate>Unknown</pubdate>
+<title>H12324 bathymetry</title>
+<onlink>http://www.ngdc.noaa.gov/docucomp/page?url=http://surveys.ngdc.noaa.gov/mgg/NOS/hsmdb/H12001-H14000/H12324_hsmdb.xml&amp;view=hydro/survey&amp;header=none</onlink>
+</citeinfo>
+</srccite>
+<typesrc>online</typesrc>
+<srctime>
+<timeinfo>
+<rngdates>
+<begdate>20110627</begdate>
+<enddate>20111011</enddate>
+</rngdates>
+</timeinfo>
+<srccurr>ground condition</srccurr>
+</srctime>
+<srccitea>bathy</srccitea>
+<srccontr>Original processed multibeam bathymetric data.</srccontr>
+</srcinfo>
+<procstep>
+<procdesc>Multibeam-echosounder (MBES) data were collected aboard the 30-foot NOAA Survey Vessel S3002, using a hull-mounted Kongsberg Simrad EM3002. This system has a 130-degree swath width and a maximum ping rate of 40 Hz. Positioning was determined by differential global positioning system (DGPS) which received corrections from Acushnet, Massachusetts. Water levels are mean lower low water and were corrected for tides using National Water Level Observation Network stations in Newport, Rhode Island, and Quonset Point, R.I. MBES data were processed (tide correction, merging with navigation data, TPU calculation, data cleaning, and CUBE BASE surface creation) using Computer Aided Resource Information System (CARIS) Hydrographic Information Processing System (HIPS) software. Bathymetric Attributed Grid (BAG) files were uploaded to the National Geophysical Data Center (NGDC). Vertical datum is mean lower low water; X and Y units are meters; UTM Zone 19, NAD 83.</procdesc>
+<procdate>2011</procdate>
+<srcprod>H12324_MB_1m_MLLW_1of3.bag.gz</srcprod>
+<srcprod>H12324_MB_2m_MLLW_2of3.bag.gz</srcprod>
+<srcprod>H12324_MB_4m_MLLW_3of3.bag.gz</srcprod>
+<proccont>
+<cntinfo>
+<cntorgp>
+<cntorg>National Oceanic and Atmospheric Administration</cntorg>
+<cntper>Matthew Nardi</cntper>
+</cntorgp>
+<cntpos>Chief of Party</cntpos>
+<cntaddr>
+<addrtype>mailing address</addrtype>
+<address>439 West York Street</address>
+<city>Norfolk</city>
+<state>VA</state>
+<postal>23510</postal>
+<country>USA</country>
+</cntaddr>
+<cntvoice>(206)-619-2849</cntvoice>
+<cntemail>matthew.nardi@noaa.gov</cntemail>
+</cntinfo>
+</proccont>
+</procstep>
+<procstep>
+<procdesc>BAG files of 1-m, 2-m, and 4-m resolution (1-m resolution covers 0-20 m depth, 2-m resolution covers 18-40 m depth, and 4-m resolution covers 36-80 m depth) were opened in Global Mapper v. 14.1. Image was hillshaded at 45-degrees altitude and azimuth, and vertically exaggerated 3x. Projection was UTM Zone 19, NAD 83.  A GeoTIFF was exported with 1-m resolution (this supersamples the data collected at 2- and 4-m resolution, it does not improve the resolution), to preserve the high-resolution of shallow areas (File, Export, Raster/Image Format, GeoTIFF). Export options are a 24-bit image, default resampling, default resolution (just shy of 1-m), default compression, and a TFW (world) file was created.</procdesc>
+<srcused>H12324_MB_1m_MLLW_1of3.bag.gz</srcused>
+<srcused>H12324_MB_2m_MLLW_2of3.bag.gz</srcused>
+<srcused>H12324_MB_4m_MLLW_3of3.bag.gz</srcused>
+<procdate>2014</procdate>
+<srcprod>h12324_utm.tif</srcprod>
+<proccont>
+<cntinfo>
+<cntorgp>
+<cntorg>U.S. Geological Survey</cntorg>
+<cntper>Katherine McMullen</cntper>
+</cntorgp>
+<cntpos>Field and Lab Technician</cntpos>
+<cntaddr>
+<addrtype>mailing and physical address</addrtype>
+<address>384 Woods Hole Road</address>
+<city>Woods Hole</city>
+<state>MA</state>
+<postal>02543</postal>
+<country>USA</country>
+</cntaddr>
+<cntvoice>(508) 548-8700 x2277</cntvoice>
+<cntfax>(508) 457-2310</cntfax>
+<cntemail>kmcmullen@usgs.gov</cntemail>
+</cntinfo>
+</proccont>
+</procstep>
+</lineage>
+</dataqual>
+<spdoinfo>
+<direct>Raster</direct>
+<rastinfo>
+<rasttype>Pixel</rasttype>
+<rowcount>7449</rowcount>
+<colcount>11362</colcount>
+<vrtcount>1</vrtcount>
+</rastinfo>
+</spdoinfo>
+<spref>
+<horizsys>
+<planar>
+<gridsys>
+<gridsysn>Universal Transverse Mercator</gridsysn>
+<utm>
+<utmzone>19</utmzone>
+<transmer>
+<sfctrmer>0.999600</sfctrmer>
+<longcm>-69.000000</longcm>
+<latprjo>0.000000</latprjo>
+<feast>500000.000000</feast>
+<fnorth>0.000000</fnorth>
+</transmer>
+</utm>
+</gridsys>
+<planci>
+<plance>row and column</plance>
+<coordrep>
+<absres>0.999866</absres>
+<ordres>0.999866</ordres>
+</coordrep>
+<plandu>meters</plandu>
+</planci>
+</planar>
+<geodetic>
+<horizdn>North American Datum of 1983</horizdn>
+<ellips>Geodetic Reference System 80</ellips>
+<semiaxis>6378137.000000</semiaxis>
+<denflat>298.257222</denflat>
+</geodetic>
+</horizsys>
+</spref>
+<eainfo>
+<overview>
+<eaover>There are no attributes associated with the GeoTIFF image.  Pixel values convey RGB values of individual cells. Warmer colors (e.g. red) are shallower depths; cooler colors (blues and purples) are deeper. NODATA values are white (255-255-255).</eaover>
+<eadetcit>U.S. Geological Survey</eadetcit>
+</overview>
+</eainfo>
+<distinfo>
+<distrib>
+<cntinfo>
+<cntorgp>
+<cntorg>U.S. Geological Survey</cntorg>
+<cntper>Katherine McMullen</cntper>
+</cntorgp>
+<cntpos>Field and Laboratory Technician</cntpos>
+<cntaddr>
+<addrtype>mailing and physical address</addrtype>
+<address>384 Woods Hole Road</address>
+<city>Woods Hole</city>
+<state>MA</state>
+<postal>02543-1598</postal>
+<country>USA</country>
+</cntaddr>
+<cntvoice>(508) 548-8700 x2277</cntvoice>
+<cntfax>(508) 457-2310</cntfax>
+<cntemail>kmcmullen@usgs.gov</cntemail>
+</cntinfo>
+</distrib>
+<resdesc>Downloadable Data - h12324_utm.zip</resdesc>
+<distliab>Neither the U.S. Government, the Department of the Interior, nor the USGS, nor the National Oceanic and Atmospheric Administration (NOAA), nor any of their employees, contractors, or subcontractors, make any warranty, express or implied, nor assume any legal liability or responsibility for the accuracy, completeness, or usefulness of any information, apparatus, product, or process disclosed, nor represent that its use would not infringe on privately owned rights. The act of distribution shall not constitute any such warranty, and no responsibility is assumed by the USGS or NOAA in the use of these data or related materials. Any use of trade, product, or firm names is for descriptive purposes only and does not imply endorsement by the U.S. Government.</distliab>
+<stdorder>
+<digform>
+<digtinfo>
+<formname>GeoTIFF</formname>
+<formvern>Global Mapper v. 14.1</formvern>
+<formspec>GeoTIFF</formspec>
+<formcont>One file (h12324_utm.zip) containing the GeoTIFF, world file, browse graphic and metadata.</formcont>
+<filedec>zip archive</filedec>
+<transize>38.8</transize>
+</digtinfo>
+<digtopt>
+<onlinopt>
+<computer>
+<networka>
+<networkr>http://pubs.usgs.gov/of/2015/1149/data/bathy/geotifs/utm/h12324_utm.zip</networkr>
+<networkr>http://pubs.usgs.gov/of/2015/1149/html/ofr20151149_catalog.html</networkr>
+</networka>
+</computer>
+<accinstr>Data are downloadable via the Internet.</accinstr>
+</onlinopt>
+<offoptn>
+<offmedia>DVD-ROM</offmedia>
+<reccap>
+<recden>4.75</recden>
+<recdenu>Gbytes</recdenu>
+</reccap>
+<recfmt>UDF</recfmt>
+</offoptn>
+</digtopt>
+</digform>
+<fees>None</fees>
+</stdorder>
+<techpreq>This image is available as a GeoTIFF image with an accompanying world file. To utilize this data, the user must have an image viewer, image processing or GIS software package capable of importing a GeoTIFF image. The user must have software capable of uncompressing archived zip files, such as WinZip or Pkware.</techpreq>
+<availabl>
+<timeinfo>
+<sngdate>
+<caldate>2015</caldate>
+</sngdate>
+</timeinfo>
+</availabl>
+</distinfo>
+<metainfo>
+<metd>20150731</metd>
+<metc>
+<cntinfo>
+<cntperp>
+<cntper>Katherine McMullen</cntper>
+<cntorg>U.S. Geological Survey</cntorg>
+</cntperp>
+<cntpos>Sediment Lab Technician</cntpos>
+<cntaddr>
+<addrtype>mailing and physical address</addrtype>
+<address>384 Woods Hole Road</address>
+<city>Woods Hole</city>
+<state>MA</state>
+<postal>02543-1598</postal>
+<country>USA</country>
+</cntaddr>
+<cntvoice>(508) 548-8700 x2277</cntvoice>
+<cntfax>(508) 457-2310</cntfax>
+<cntemail>kmcmullen@usgs.gov</cntemail>
+</cntinfo>
+</metc>
+<metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+<metstdv>FGDC-STD-001-1998</metstdv>
+<mettc>local time</mettc>
+<metac>None</metac>
+<metuc>None</metuc>
+<metextns>
+<onlink>http://www.esri.com/</onlink>
+<metprof>ESRI Metadata Profile</metprof>
+</metextns>
+</metainfo>
+</metadata>
